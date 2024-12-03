@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\OneDrive\\Hutech\\subjectNew\\dev-tool\\nhom-5\\calculate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D3DE4F6-07A1-4B75-A450-EC2233192056}|calculate\\calculate.csproj|d:\\onedrive\\hutech\\subjectnew\\dev-tool\\nhom-5\\calculate\\calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D3DE4F6-07A1-4B75-A450-EC2233192056}|calculate\\calculate.csproj|solutionrelative:calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0D3DE4F6-07A1-4B75-A450-EC2233192056}|calculate\\calculate.csproj|d:\\onedrive\\hutech\\subjectnew\\dev-tool\\nhom-5\\calculate\\calculate\\calculate-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3DE4F6-07A1-4B75-A450-EC2233192056}|calculate\\calculate.csproj|solutionrelative:calculate\\calculate-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,11 +43,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\OneDrive\\Hutech\\subjectNew\\dev-tool\\nhom-5\\calculate\\calculate\\Form1.cs",
-              "RelativeDocumentMoniker": "calculate\\Form1.cs",
-              "ToolTip": "D:\\OneDrive\\Hutech\\subjectNew\\dev-tool\\nhom-5\\calculate\\calculate\\Form1.cs [Design]",
-              "RelativeToolTip": "calculate\\Form1.cs [Design]",
+              "Title": "calculate-form.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive\\Hutech\\subjectNew\\dev-tool\\nhom-5\\calculate\\calculate\\calculate-form.cs",
+              "RelativeDocumentMoniker": "calculate\\calculate-form.cs",
+              "ToolTip": "D:\\OneDrive\\Hutech\\subjectNew\\dev-tool\\nhom-5\\calculate\\calculate\\calculate-form.cs [Design]",
+              "RelativeToolTip": "calculate\\calculate-form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T02:20:48.688Z",
               "EditorCaption": " [Design]"
