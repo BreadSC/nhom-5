@@ -8,3 +8,13 @@ D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\nhom-5\calculate\calculate\obj\Debug\calc
 D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\nhom-5\calculate\calculate\obj\Debug\calculate.csproj.CoreCompileInputs.cache
 D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\nhom-5\calculate\calculate\obj\Debug\calculate.exe
 D:\HOCKI1B_NAM4\CongCuPhatTrienPhanMem\nhom-5\calculate\calculate\obj\Debug\calculate.pdb
+D:\nhom-5\calculate\calculate\bin\Debug\calculate.exe.config
+D:\nhom-5\calculate\calculate\bin\Debug\calculate.exe
+D:\nhom-5\calculate\calculate\bin\Debug\calculate.pdb
+D:\nhom-5\calculate\calculate\obj\Debug\calculate.csproj.AssemblyReference.cache
+D:\nhom-5\calculate\calculate\obj\Debug\calculate.calculate.resources
+D:\nhom-5\calculate\calculate\obj\Debug\calculate.Properties.Resources.resources
+D:\nhom-5\calculate\calculate\obj\Debug\calculate.csproj.GenerateResource.cache
+D:\nhom-5\calculate\calculate\obj\Debug\calculate.csproj.CoreCompileInputs.cache
+D:\nhom-5\calculate\calculate\obj\Debug\calculate.exe
+D:\nhom-5\calculate\calculate\obj\Debug\calculate.pdb
