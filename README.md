@@ -21,8 +21,8 @@
   <a href="https://www.facebook.com/profile.php?id=100036083453928&mibextid=ZbWKwL" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  <a href="https://github.com/Dienhandsome" alt="Github">
+    <img src="https://github.com/BreadSC/nhom-5/blob/main/README.md"/>
   </a> 
   <a href="https://www.youtube.com/@Hoangdien83" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
