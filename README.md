@@ -12,9 +12,6 @@
 
 <br />
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg...t=badge)
-![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
-
 ## 📫 How to reach me:
 
 <p align="center">
