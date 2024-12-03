@@ -105,6 +105,20 @@ namespace calculate
 
         private void btnChia_Click(object sender, EventArgs e)
         {
+            if (checkRong() && checkPare())
+            {
+                float num1 = float.Parse(txtNumber1.Text);
+                float num2 = float.Parse(txtNumber2.Text);
+                if (num2 == 0)
+                {
+                    MessageBox.Show("Vui lòng nhập số bị chia khác 0", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                else
+                {
+                    txtResult.Text = (num1 / num2).ToString();
+                }
+
+            }
 
         }
     }

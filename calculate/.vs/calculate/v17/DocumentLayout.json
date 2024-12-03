@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\nhom-5\\calculate\\",
+  "WorkspaceRootPath": "E:\\nhom-5\\calculate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D3DE4F6-07A1-4B75-A450-EC2233192056}|calculate\\calculate.csproj|d:\\nhom-5\\calculate\\calculate\\calculate-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D3DE4F6-07A1-4B75-A450-EC2233192056}|calculate\\calculate.csproj|e:\\nhom-5\\calculate\\calculate\\calculate-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D3DE4F6-07A1-4B75-A450-EC2233192056}|calculate\\calculate.csproj|solutionrelative:calculate\\calculate-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D3DE4F6-07A1-4B75-A450-EC2233192056}|calculate\\calculate.csproj|D:\\nhom-5\\calculate\\calculate\\calculate-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0D3DE4F6-07A1-4B75-A450-EC2233192056}|calculate\\calculate.csproj|E:\\nhom-5\\calculate\\calculate\\calculate-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D3DE4F6-07A1-4B75-A450-EC2233192056}|calculate\\calculate.csproj|solutionrelative:calculate\\calculate-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,21 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "calculate-form.cs",
-              "DocumentMoniker": "D:\\nhom-5\\calculate\\calculate\\calculate-form.cs",
+              "DocumentMoniker": "E:\\nhom-5\\calculate\\calculate\\calculate-form.cs",
               "RelativeDocumentMoniker": "calculate\\calculate-form.cs",
-              "ToolTip": "D:\\nhom-5\\calculate\\calculate\\calculate-form.cs",
+              "ToolTip": "E:\\nhom-5\\calculate\\calculate\\calculate-form.cs",
               "RelativeToolTip": "calculate\\calculate-form.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAxwGQAAAAZAAAAAAAAAA==",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAwwHUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T03:02:32.592Z",
               "EditorCaption": ""
@@ -41,10 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "calculate-form.cs [Design]",
-              "DocumentMoniker": "D:\\nhom-5\\calculate\\calculate\\calculate-form.cs",
+              "DocumentMoniker": "E:\\nhom-5\\calculate\\calculate\\calculate-form.cs",
               "RelativeDocumentMoniker": "calculate\\calculate-form.cs",
               "ToolTip": "D:\\HOCKI1B_NAM4\\CongCuPhatTrienPhanMem\\nhom-5\\calculate\\calculate\\calculate-form.cs [Design]",
-              "RelativeToolTip": "..\\..\\HOCKI1B_NAM4\\CongCuPhatTrienPhanMem\\nhom-5\\calculate\\calculate\\calculate-form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T02:20:48.688Z"
             }
